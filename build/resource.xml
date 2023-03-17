@@ -1,0 +1,13 @@
+<component info="CentraStage Component">
+  <general>
+    <name>Get CTR Office Version</name>
+    <category>scripts</category>
+    <description>Gets the version of Click to Run Office 365, sets to UDF26</description>
+    <uid>11705dca-eddb-414e-aef4-a0d7f9dbd022</uid>
+    <hash />
+    <version>4</version>
+    <timeout>3600</timeout>
+    <securityLevel>1</securityLevel>
+    <installType>powershell</installType>
+  </general>
+</component>
